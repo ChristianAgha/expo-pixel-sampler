@@ -6,14 +6,14 @@
   "types": "src/index.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/expo-pixel-sampler.git"
+    "url": "https://github.com/ChristianAgha/expo-pixel-sampler.git"
   },
-  "author": "Your Name <your@email.com>",
+  "author": "Christian Agha <christianagha@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yourusername/expo-pixel-sampler/issues"
+    "url": "https://github.com/ChristianAgha/expo-pixel-sampler/issues"
   },
-  "homepage": "https://github.com/yourusername/expo-pixel-sampler#readme",
+  "homepage": "https://github.com/ChristianAgha/expo-pixel-sampler#readme",
   "keywords": [
     "react-native",
     "expo",
