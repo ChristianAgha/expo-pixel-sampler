@@ -1,5 +1,9 @@
 # expo-pixel-sampler
 
+[![npm version](https://img.shields.io/npm/v/expo-pixel-sampler.svg)](https://www.npmjs.com/package/expo-pixel-sampler)
+[![npm downloads](https://img.shields.io/npm/dm/expo-pixel-sampler.svg)](https://www.npmjs.com/package/expo-pixel-sampler)
+[![license](https://img.shields.io/npm/l/expo-pixel-sampler.svg)](https://github.com/ChristianAgha/expo-pixel-sampler/blob/main/LICENSE)
+
 Native pixel color sampling for React Native and Expo. Get the exact color at any coordinate in an image - **instantly and synchronously**.
 
 ## Why This Library?
