@@ -1,0 +1,10 @@
+{
+  "platforms": ["ios", "android"],
+  "ios": {
+    "modules": ["PixelSamplerModule"]
+  },
+  "android": {
+    "modules": ["expo.modules.pixelsampler.PixelSamplerModule"]
+  }
+}
+

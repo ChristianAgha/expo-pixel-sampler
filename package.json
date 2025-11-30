@@ -1,0 +1,39 @@
+{
+  "name": "expo-pixel-sampler",
+  "version": "1.0.0",
+  "description": "Native pixel color sampling for React Native and Expo. Get the exact color at any coordinate in an image - instantly and synchronously.",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/expo-pixel-sampler.git"
+  },
+  "author": "Your Name <your@email.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yourusername/expo-pixel-sampler/issues"
+  },
+  "homepage": "https://github.com/yourusername/expo-pixel-sampler#readme",
+  "keywords": [
+    "react-native",
+    "expo",
+    "pixel",
+    "color",
+    "sampler",
+    "image",
+    "color-picker",
+    "eyedropper",
+    "image-colors",
+    "pixel-color",
+    "ios",
+    "android"
+  ],
+  "peerDependencies": {
+    "expo": ">=49.0.0",
+    "react": ">=18.0.0",
+    "react-native": ">=0.72.0"
+  },
+  "devDependencies": {
+    "expo-modules-core": "^1.12.0"
+  }
+}
